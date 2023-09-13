@@ -1,0 +1,25 @@
+---
+title: "Title"
+subtitle: "Subtitle"
+author: 
+  - name: Althea Marks
+    orcid: 0000-0002-9370-9128
+    email: email
+    affiliations:
+      - name: place
+date: "`r Sys.Date()`"
+format: 
+  html: 
+    number-sections: true
+    toc: true
+    code-tools: true
+    theme: cosmo 
+    self-contained: true
+    page-layout: full
+title-block-banner: TRUE
+execute:
+     echo: false
+     include: false
+     warning: false
+---
+

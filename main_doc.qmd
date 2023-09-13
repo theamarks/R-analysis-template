@@ -23,3 +23,11 @@ execute:
      warning: false
 ---
 
+```{r}
+#| label: setup
+
+library(renv)
+# run to initiate renv package version & environment management
+# renv::init()
+```
+
